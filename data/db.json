@@ -1,15 +1,31 @@
 {
   "todos": [
     {
-      "id": 0.40140115136442844,
-      "title": "Estudar Js",
-      "time": "1",
+      "id": 0.4473549391457453,
+      "title": "Aprufandar js",
+      "time": "2",
+      "comment": "Plataforma DIO",
+      "done": true
+    },
+    {
+      "id": 0.59487589591251,
+      "title": "Estudar py",
+      "time": "30 min",
+      "comment": "Algoritimos",
       "done": false
     },
     {
-      "id": 0.028633316856253255,
-      "title": "Estudar js",
+      "id": 0.2413879824904106,
+      "title": "Typescript",
       "time": "1",
+      "comment": "Video",
+      "done": true
+    },
+    {
+      "id": 0.9660011138505985,
+      "title": "Estudar React",
+      "time": "2",
+      "comment": "Teste",
       "done": false
     }
   ]
